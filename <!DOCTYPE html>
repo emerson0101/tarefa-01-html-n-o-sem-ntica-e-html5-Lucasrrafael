@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Blog de Tecnologia</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1 class="logo">Engenharia de Computação 2026</h1>
+        <nav>
+            <a href="#">Home</a> | 
+            <a href="#">Aulas</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <article class="postagem">
+                <h2 class="titulo-post">Introdução ao Desenvolvimento Web</h2>
+                <p>Este é um texto de exemplo que precisa de estrutura.</p>
+            </article>
+        </section>
+
+        <aside>
+            <p>Links úteis e Categorias.</p>
+        </aside>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Aula de HTML Semântico</p>
+    </footer>
+
+</body>
+</html>
